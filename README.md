@@ -51,4 +51,4 @@ Interested in this application or want to purchase it?
 ---
 
 Developed with ❤️ using Android Studio.
-https://alopas8.gumroad.com/l/sulpva
+https://alopas8.gumroad.com/l/pinwys
